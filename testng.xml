@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-l.0.dtd">
+<suite name="ICARO Automatización de Pruebas">
+    <test name="Suite de ejemplo">
+        <classes>
+            <class name="ar.org.icaro.PruebaSuma">
+                <class name="ar.org.icaro.PruebaProducto">
+                </classes>
+            </test>
+        </suite>
